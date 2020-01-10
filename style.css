@@ -1,0 +1,14 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+article {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: wrap row;
+}
+section {
+    display: flex;
+    width: 33%;
+}
